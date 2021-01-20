@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://github.com/extra2000/windefender-formula/compare/v1.0.0...v1.0.1) (2021-01-20)
+
+
+### Documentations
+
+* **README:** Add license scan report and status ([d702500](https://github.com/extra2000/windefender-formula/commit/d7025005be85a0e07ef62b30aeabc98533ae0593))
+
 ## 1.0.0 (2021-01-09)
 
 
